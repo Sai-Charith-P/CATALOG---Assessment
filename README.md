@@ -16,3 +16,6 @@ output 2:
  79836264464384
  
 ---
+## To run the code:
+~~~
+ node .\polysolution.js
